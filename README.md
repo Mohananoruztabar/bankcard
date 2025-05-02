@@ -1,2 +1,2 @@
 # bankcard
-card
+https://mohananoruztabar.github.io/bankcard/index1-js.html
