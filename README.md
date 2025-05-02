@@ -1,7 +1,7 @@
 # bankcard
 - [Demo Project](https://mohananoruztabar.github.io/bankcard/index1-js.html)
 
-- !![Image](https://github.com/user-attachments/assets/131d2624-5581-42cb-a5f5-737376adf3b8)
+- ![Image](https://github.com/user-attachments/assets/40f274ac-2621-4cb8-bfe5-598f1fdc2379)
 
 -🙋🏽‍♀️ Developed by Mohana Noruztabar
 
